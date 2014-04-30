@@ -1,0 +1,70 @@
+/* -------------------------------------
+Custom CSS
+------------------------------------- */
+/* Main
+------------------------------------- */
+#main {
+  padding:0 20px;
+  width:580px;
+}
+
+/* Heading
+------------------------------------- */
+/*
+h1.entry-title {
+  background-color: #ffe5e9;
+}*/
+
+.entry-content h2 {
+  border-bottom: 2px solid #808080;
+}
+
+.entry-content h3 {
+  border-bottom: 1px dotted #999;
+}
+
+.entry-content h4 {
+  border-left: 8px solid #a9a9a9;
+  padding-left: 4px;
+}
+
+.deka {
+  font-size:2em;
+  color:#ff0000;
+}
+
+/* Table
+------------------------------------- */
+.entry-content table {
+  font-size:0.8em;
+}
+
+/* Link
+------------------------------------- */
+/* メインリンク */
+a:link {
+  color: #ff1493;
+}
+a:visited {
+  color: #db7093;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:active {
+  color: #ff1493;
+}
+
+/* keywordリンク */
+a.keyword:link {
+  color: #4682b4;
+}
+a.keyword:visited {
+  color: #b0c4de;
+}
+a.keyword:hover {
+  text-decoration: underline;
+}
+a.keyword:active {
+  color: #4682b4;
+}
